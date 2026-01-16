@@ -1,0 +1,3 @@
+- Git stores history as snapshots, not diffs.
+- A merge conflict happens when Git can’t automatically combine changes.
+- Tags are commonly used to mark releases like v1.0.0.
